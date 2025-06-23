@@ -1,6 +1,6 @@
 # LangChain - Desenvolvendo agentes de inteligência artificial
 
-Bem-vindo ao projeto! Aqui você encontra um exemplo prático e didático de como usar a biblioteca **LangChain** para criar agentes inteligentes capazes de interagir com dados reais de estudantes e universidades.
+Bem-vindo ao projeto! Projeto prático utilizando a biblioteca **LangChain** para criar agentes inteligentes capazes de interagir com dados reais de estudantes e universidades.
 
 ---
 
