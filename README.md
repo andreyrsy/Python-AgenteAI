@@ -47,21 +47,6 @@ O agente entende, busca as informações nos arquivos CSV e retorna um resumo pe
    ```bash
    python main.py
    ```
-
----
-
-## 👨‍💻 Para quem é este projeto?
-
-- Estudantes e curiosos sobre IA aplicada a dados educacionais.
-- Quem quer aprender, na prática, como conectar modelos de linguagem a bases de dados reais.
-- Professores, desenvolvedores e entusiastas de tecnologia educacional.
-
----
-
-## 💡 Por que esse projeto é legal?
-
-Porque mostra, de forma simples e acessível, como a IA pode ser usada para personalizar experiências, conectar pessoas a oportunidades e transformar dados em conhecimento útil. E, claro, serve como ponto de partida para ideias ainda maiores!
-
 ---
 
 ## 📚 Referências
